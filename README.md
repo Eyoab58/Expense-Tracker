@@ -21,7 +21,7 @@ A simple expense tracker web application built with Vue 3 and Vite. This app all
 
 ## Demo
 
-<!-- Place your screen recording or demo link here -->
+![Demo](./vue-expense.gif)
 
 ## Getting Started
 
